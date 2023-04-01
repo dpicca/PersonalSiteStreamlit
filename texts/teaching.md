@@ -1,0 +1,7 @@
+As a professor, I have a strong background in computer science and programming, and my teaching activities revolve around the practical application of programming skills. I have taught classes on the basics of databases, covering topics such as modeling and implementation. Additionally, I have provided instruction in various programming languages, including Python.
+
+Aside from technical subjects, I have also taught classes on project management, which suggests that I have experience overseeing software development projects. I am particularly interested in exploring the intersection of computer science and the web, and my teaching activities reflect this interest. I have designed and taught courses on programming for the semantic web and web semantics more broadly.
+
+Overall, my teaching activities are focused on providing students with practical skills in computer science and programming, while also encouraging them to think critically about the theoretical underpinnings of these subjects. Through my courses and classes, I aim to prepare students for careers in software development, web development, and related fields.
+
+For my teaching activities in detail, please visit my [academic website](https://www.unil.ch/sli/davidepicca?url_params=-v_faculte=30-v_unite=278-v_personne=71016-v_publication=true-v_menu=ens-mode=fiche&pubsIdParam=b3b3ab9fd437419ab5bf5c2af03f6282&showFrom=auto).
