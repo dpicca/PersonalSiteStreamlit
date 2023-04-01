@@ -19,7 +19,7 @@ def home():
     col1, col2 = st.columns(2)
     col1.image('./assets/d.picca_-1.jpg', width=300)
 
-    col2.markdown(read_txt_file('./texts/about_me.md'))
+    col2.markdown(read_txt_file('./texts/about_me.md'),safe_allow_html=True)
 
 def curriculum():
     st.title("Curriculum")
@@ -27,7 +27,7 @@ def curriculum():
     st.markdown("")
     st.markdown("")
     st.markdown("")
-    st.markdown(read_txt_file('./texts/cv.md'))
+    st.markdown(read_txt_file('./texts/cv.md'), unsafe_allow_html=True)
 
 def publications():
     st.title("Publications")
@@ -35,7 +35,7 @@ def publications():
     st.markdown("")
     st.markdown("")
     st.markdown("")
-    st.markdown(read_txt_file('./texts/publications.md'))
+    st.markdown(read_txt_file('./texts/publications.md'), unsafe_allow_html=True)
 
 def projects():
     st.title("Projects")
@@ -43,7 +43,7 @@ def projects():
     st.markdown("")
     st.markdown("")
     st.markdown("")
-    st.markdown(read_txt_file('./texts/projects.md'))
+    st.markdown(read_txt_file('./texts/projects.md'), unsafe_allow_html=True)
 
 def activities():
     st.title("Activities")
@@ -51,7 +51,7 @@ def activities():
     st.markdown("")
     st.markdown("")
     st.markdown("")
-    st.markdown(read_txt_file('./texts/activities.md'))
+    st.markdown(read_txt_file('./texts/activities.md'),safe_allow_html=True)
 
 def teaching():
     st.title("Teaching")
