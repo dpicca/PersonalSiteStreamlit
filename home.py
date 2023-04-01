@@ -19,7 +19,7 @@ def home():
     col1, col2 = st.columns(2)
     col1.image('./assets/d.picca_-1.jpg', width=300)
 
-    col2.markdown(read_txt_file('./texts/about_me.md'),safe_allow_html=True)
+    col2.markdown(read_txt_file('./texts/about_me.md'),unsafe_allow_html=True)
 
 def curriculum():
     st.title("Curriculum")
@@ -51,7 +51,7 @@ def activities():
     st.markdown("")
     st.markdown("")
     st.markdown("")
-    st.markdown(read_txt_file('./texts/activities.md'),safe_allow_html=True)
+    st.markdown(read_txt_file('./texts/activities.md'),unsafe_allow_html=True)
 
 def teaching():
     st.title("Teaching")
