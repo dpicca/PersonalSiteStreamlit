@@ -34,8 +34,8 @@ Peer-reviewed journals
 Peer-reviewed conference proceedings
 ------------------------------------
 
-*   Picca, D., Adamou, A., Schneider, A., Rodoghiero, D. (To be submitted). A Methodological Inquiry into Automatic Manuscript Analysis: Understanding Charles S. Peirce's PAP Paper
-*   Picca, D., & Pavlopoulos, J. (Under review). The Iliad: A french dataset for emotion recognition in classical literature
+*   Picca, D., Adamou, A., Schneider, A., Rodoghiero, D. (Under review). A Methodological Inquiry into Automatic Manuscript Analysis: Understanding Charles S. Peirce's PAP Paper
+*   Picca, D., & Pavlopoulos, J. (To be submitted). The Iliad: A french dataset for emotion recognition in classical literature
 *   Pavlopoulos, J., Xenos, A., & Picca, D. (2022). Sentiment Analysis of Homeric Text: The 1st Book of Iliad. Proceedings of the Thirteenth Language Resources and Evaluation Conference.
 *   Picca, Davide, Adamou, A., Hou, Y., Egloff, M., & Kenderdine, S. (2022). Knowledge organization of the Hong Kong Martial Arts Living Archive to capture and preserve intangible cultural heritage. Book of Abstracts of DH, 2022.
 *   Wicht, B., & Picca, D. (2022). Curuinsi Project: A lexical database for preserving Tikuna language. Digital Humanities.
