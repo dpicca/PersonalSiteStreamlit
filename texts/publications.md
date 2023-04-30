@@ -23,6 +23,7 @@ Book chapters
 Peer-reviewed journals
 ---------------------
 
+*   Adamou, A., Picca, D., Hou, Y., & Paula Loreto, G.-G. (2023). The Facets of Intangible Heritage in Southern Chinese Martial Arts: Applying a Knowledge-Driven Cultural Contact Detection Approach. ACM Journal on Computing and Cultural Heritage (JOCCH).
 *   Picca, D., & Pitteloud, J. (Under review). Personality Recognition in Digital Humanities : A review of computational approaches in the humanities. Digital Scholarship in the Humanities.
 *   Adamou, A., Picca, D., Hou, Y., & Paula Loreto, G.-G. (2023). Cultural Contact in Southern Chinese Martial Arts. ACM Journal on Computing and Cultural Heritage (JOCCH).
 *   Hou, Y., Kenderdine, S., Picca, D., Egloff, M., & Adamou, A. (2022). Digitizing intangible cultural heritage embodied: State of the art. Journal on Computing and Cultural Heritage (JOCCH), 15(3), 1–20.

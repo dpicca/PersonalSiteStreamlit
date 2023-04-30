@@ -37,6 +37,7 @@ Awards and recognitions
 
 Participation in conferences and workshops organisation
 --------------------
+* Organization of LIRAI – Legal Information Retrieval meets Artificial Intelligence endorsed at ACM Hypertext 2023
 * Organization of the Workshop on Computational Methods in the Humanities 2022 (COMHUM 2022) at the University of Lausanne. 
 * Organization of the Workshop on Computational Methods in the Humanities 2018 (COMHUM 2018) at the University of Lausanne. 
 * Organization of the 1st Workshop on Cognitive Computing Methodologies for the Humanities (Co2Hum 2018) 6 decémbre à la National University of Ireland à Galway sponsisée par l'European Association for Digital Humanities (EADH)
